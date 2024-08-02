@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WinDuc347
+- 👋 Hi, I’m Ngo Duc Trung
 - 👀 I’m interested in traveling
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ...
